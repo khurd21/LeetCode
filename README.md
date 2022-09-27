@@ -18,4 +18,14 @@
         </td>
         <td>Easy</td>
     </tr>
+    <tr>
+        <td> 2 </td>
+        <td>
+            <a href="https://leetcode.com/problems/add-two-numbers">Add Two Numbers</a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/add_two_numbers/add_two_numbers.cpp">C++</a>, 
+        </td>
+        <td>Medium</td> 
+    </tr>
 </table>
