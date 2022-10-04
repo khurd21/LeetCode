@@ -28,4 +28,16 @@
         </td>
         <td>Medium</td> 
     </tr>
+    <tr>
+        <td>3</td>
+        <td>
+            <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters">
+                Longest Substring Without Repeating Characters
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/length_of_longest_substring/length_of_longest_substring.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
 </table>
