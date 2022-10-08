@@ -40,4 +40,16 @@
         </td>
         <td>Medium</td>
     </tr>
+    <tr>
+        <td>4</td>
+        <td>
+            <a href="https://leetcode.com/problems/median-of-two-sorted-arrays">
+                Median of Two Sorted Arrays
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/median_of_two_sorted_arrays/median_of_two_sorted_arrays.cpp">C++</a>,
+        </td>
+        <td>Hard</td>
+    </tr>
 </table>
