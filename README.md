@@ -52,4 +52,16 @@
         </td>
         <td>Hard</td>
     </tr>
+    <tr>
+        <td>5</td>
+        <td>
+            <a href="https://leetcode.com/problems/longest-palindromic-substring">
+                Longest Palindromic Substring
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/longest_palindromic_substring/longest_palindromic_substring.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
 </table>
