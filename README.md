@@ -87,4 +87,17 @@
             <a href="./algorithms/cpp/reverse_integer/reverse_integer.cpp">C++</a>,
         </td>
         <td>Medium</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>
+            <a href="https://leetcode.com/problems/string-to-integer-atoi">
+                String to Integer (atoi)
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/string_to_integer_atoi/string_to_integer_atoi.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
 </table>
