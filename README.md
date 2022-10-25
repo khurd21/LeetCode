@@ -64,4 +64,16 @@
         </td>
         <td>Medium</td>
     </tr>
+    <tr>
+        <td>6</td>
+        <td>
+            <a href="https://leetcode.com/problems/zigzag-conversion">
+                ZigZag Conversion
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/zigzag_conversion/zigzag_conversion.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
 </table>
