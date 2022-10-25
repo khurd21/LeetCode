@@ -76,4 +76,15 @@
         </td>
         <td>Medium</td>
     </tr>
+    <tr>
+        <td>7</td>
+        <td>
+            <a href="https://leetcode.com/problems/reverse-integer">
+                Reverse Integer
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/reverse_integer/reverse_integer.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
 </table>
