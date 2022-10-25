@@ -100,4 +100,16 @@
         </td>
         <td>Medium</td>
     </tr>
+    <tr>
+        <td>9</td>
+        <td>
+            <a href="https://leetcode.com/problems/palindrome-number">
+                Palindrome Number
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/palindrome_number/palindrome_number.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
 </table>
