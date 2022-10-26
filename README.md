@@ -112,4 +112,16 @@
         </td>
         <td>Easy</td>
     </tr>
+    <tr>
+        <td>11</td>
+        <td>
+            <a href="https://leetcode.com/problems/container-with-most-water">
+                Container With Most Water
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/container_with_most_water/container_with_most_water.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
 </table>
