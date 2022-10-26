@@ -124,4 +124,16 @@
         </td>
         <td>Medium</td>
     </tr>
+    <tr>
+        <td>12</td>
+        <td>
+            <a href="https://leetcode.com/problems/integer-to-roman/">
+                Integer to Roman
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/integer_to_roman/integer_to_roman.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
 </table>
