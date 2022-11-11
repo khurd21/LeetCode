@@ -136,4 +136,16 @@
         </td>
         <td>Medium</td>
     </tr>
+    <tr>
+        <td>175</td>
+        <td>
+            <a href="https://leetcode.com/problems/combine-two-tables/">
+                Combine Two Tables
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/sql/combine_two_tables.sql">SQL</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
 </table>
