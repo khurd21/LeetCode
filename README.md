@@ -148,4 +148,27 @@
         </td>
         <td>Easy</td>
     </tr>
+    <tr>
+        <td>176</td>
+        <td>
+            <a href="https://leetcode.com/problems/second-highest-salary/">
+                Second Highest Salary
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/sql/second_highest_salary.sql">SQL</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
+        <td>178</td>
+        <td>
+            <a href="https://leetcode.com/problems/rank-scores">
+                Rank Scores
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/sql/rank_scores.sql">SQL</a>,
+        </td>
+        <td>Medium</td>
 </table>
