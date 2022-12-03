@@ -171,4 +171,17 @@
             <a href="./algorithms/sql/rank_scores.sql">SQL</a>,
         </td>
         <td>Medium</td>
+    </tr>
+    <tr>
+        <td>792</td>
+        <td>
+            <a href="https://leetcode.com/problems/number-of-matching-subsequences/">
+                Number of Matching Subsequences
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/number_of_matching_subsequences/number_of_matching_subsequences.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
 </table>
