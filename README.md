@@ -197,6 +197,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1523</td>
+        <td>
+            <a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">
+                Count Odd Numbers in an Interval Range
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/count_odd_numbers_in_an_interval_range/count_odd_numbers_in_an_interval_range.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1832</td>
         <td>
             <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">
