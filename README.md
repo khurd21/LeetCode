@@ -185,6 +185,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1422</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">
+                Maximum Score After Splitting a String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximum_score_after_splitting_a_string/maximum_score_after_splitting_a_string.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1832</td>
         <td>
             <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">
