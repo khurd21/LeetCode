@@ -184,4 +184,16 @@
         </td>
         <td>Medium</td>
     </tr>
+    <tr>
+        <td>1832</td>
+        <td>
+            <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">
+                Check if the Sentence Is Pangram
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/check_if_pangram/check_if_pangram.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
 </table>
