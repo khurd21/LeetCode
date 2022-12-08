@@ -220,4 +220,16 @@
         </td>
         <td>Easy</td>
     </tr>
+    <tr>
+        <td>2441</td>
+        <td>
+            <a href="https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/">
+                Largest Positive Integer that Exists with its Negative
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/largest_positive_integer/largest_positive_integer.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
 </table>
