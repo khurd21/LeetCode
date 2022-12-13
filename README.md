@@ -209,6 +209,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1812</td>
+        <td>
+            <a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">
+                Determine Color of a Chessboard Square
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/determine_color_of_chessboard_square/determine_color_of_chessboard_square.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1832</td>
         <td>
             <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">
