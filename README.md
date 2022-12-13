@@ -233,6 +233,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2309</td>
+        <td>
+            <a href="https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/">
+                Greatest English Letter in Upper and Lower Case
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/greatest_english_letter/greatest_english_letter.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2441</td>
         <td>
             <a href="https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/">
