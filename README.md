@@ -217,10 +217,24 @@
         </td>
         <td>
             <a href="./algorithms/python/rearrange_spaces_between_words/rearrange_spaces_between_words.py">
-                Python,
-            </a>
+                Python
+            </a>,
         </td>
         <td>Easy</td>
+    </tr>
+    <tr>
+        <td>1754</td>
+        <td>
+            <a href="https://leetcode.com/problems/largest-merge-of-two-strings/">
+                Largest Merge Of Two Strings
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/largest_merge_of_two_strings/largest_merge_of_two_strings.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
     </tr>
     <tr>
         <td>1812</td>
