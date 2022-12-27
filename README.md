@@ -209,6 +209,20 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1592</td>
+        <td>
+            <a href="https://leetcode.com/problems/rearrange-spaces-between-words/">
+                Rearrange Spaces Between Words
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/python/rearrange_spaces_between_words/rearrange_spaces_between_words.py">
+                Python,
+            </a>
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1812</td>
         <td>
             <a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">
