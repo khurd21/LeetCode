@@ -233,6 +233,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2133</td>
+        <td>
+            <a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">
+                Check if Every Row and Column Contains All Numbers
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/check_if_every_row_and_column_contains_all_numbers/check_if_every_row_and_column_contains_all_numbers.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2309</td>
         <td>
             <a href="https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/">
