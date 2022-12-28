@@ -173,6 +173,20 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>365</td>
+        <td>
+            <a href="https://leetcode.com/problems/water-and-jug-problem/">
+                Water and Jug Problem
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/water_and_jug/water_and_jug.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>792</td>
         <td>
             <a href="https://leetcode.com/problems/number-of-matching-subsequences/">
