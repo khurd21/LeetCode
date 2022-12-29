@@ -137,6 +137,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>24</td>
+        <td>
+            <a href="https://leetcode.com/problems/swap-nodes-in-pairs/">
+                Swap Nodes in Pairs
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/swap_nodes_in_pairs/swap_nodes_in_pairs.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>175</td>
         <td>
             <a href="https://leetcode.com/problems/combine-two-tables/">
@@ -273,6 +285,18 @@
             <a href="./algorithms/cpp/check_if_pangram/check_if_pangram.cpp">C++</a>,
         </td>
         <td>Easy</td>
+    </tr>
+    <tr>
+        <td>1962</td>
+        <td>
+            <a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">
+                Remove Stones to Minimize the Total
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/remove_stones_to_minimize_total/remove_stones_to_minimize_total.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
     </tr>
     <tr>
         <td>2133</td>

@@ -2,3 +2,5 @@
 **/bin/
 **/obj/
 .gitignore.swp
+
+.DS_Store
