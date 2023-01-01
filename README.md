@@ -323,6 +323,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2363</td>
+        <td>
+            <a href="https://leetcode.com/problems/merge-similar-items/">
+                Merge Similar Items
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/merge_similar_items/merge_similar_items.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2441</td>
         <td>
             <a href="https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/">
