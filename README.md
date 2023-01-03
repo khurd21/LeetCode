@@ -263,6 +263,20 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1758</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/">
+                Minimum Changes To Make Alternating Binary String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_change_to_binary_string/minimum_change_to_binary_string.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1812</td>
         <td>
             <a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">
