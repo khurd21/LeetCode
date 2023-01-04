@@ -149,6 +149,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>110</td>
+        <td>
+            <a href="https://leetcode.com/problems/balanced-binary-tree/">
+                Balanced Binary Tree
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/balanced_binary_tree/balanced_binary_tree.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>175</td>
         <td>
             <a href="https://leetcode.com/problems/combine-two-tables/">
