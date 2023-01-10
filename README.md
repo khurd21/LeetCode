@@ -223,6 +223,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1035</td>
+        <td>
+            <a href="https://leetcode.com/problems/uncrossed-lines/">
+                Uncrossed Lines
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/uncrossed_lines/uncrossed_lines.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1422</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">
