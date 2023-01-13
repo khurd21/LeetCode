@@ -211,6 +211,20 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>485</td>
+        <td>
+            <a href="https://leetcode.com/problems/max-consecutive-ones/">
+                Max Consecutive Ones
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/find_max_consecutive_ones/find_max_consecutive_ones.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>792</td>
         <td>
             <a href="https://leetcode.com/problems/number-of-matching-subsequences/">
