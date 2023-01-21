@@ -197,6 +197,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>234</td>
+        <td>
+            <a href="https://leetcode.com/problems/palindrome-linked-list/">
+                Palindrome Linked List
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/palindrome_linked_list/palindrome_linked_list.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>365</td>
         <td>
             <a href="https://leetcode.com/problems/water-and-jug-problem/">
