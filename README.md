@@ -273,6 +273,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1480</td>
+        <td>
+            <a href="https://leetcode.com/problems/running-sum-of-1d-array/">
+                Running Sum of 1d Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/running_sum_1d_array/running_sum_1d_array.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1523</td>
         <td>
             <a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">
