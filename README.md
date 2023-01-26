@@ -161,6 +161,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>118</td>
+        <td>
+            <a href="https://leetcode.com/problems/pascals-triangle/">
+                Pascal's Triangle
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/pascals_triangle/pascals_triangle.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>175</td>
         <td>
             <a href="https://leetcode.com/problems/combine-two-tables/">
