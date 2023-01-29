@@ -161,6 +161,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>55</td>
+        <td>
+            <a href="https://leetcode.com/problems/jump-game/">
+                Jump Game
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/jump_game/jump_game.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>110</td>
         <td>
             <a href="https://leetcode.com/problems/balanced-binary-tree/">
