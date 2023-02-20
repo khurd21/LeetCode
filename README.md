@@ -149,6 +149,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>31</td>
+        <td>
+            <a href="https://leetcode.com/problems/next-permutation/">
+                Next Permutation
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/next_permutation/next_permutation.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>45</td>
         <td>
             <a href="https://leetcode.com/problems/jump-game-ii/">
