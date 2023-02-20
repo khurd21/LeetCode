@@ -309,6 +309,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1054</td>
+        <td>
+            <a href="https://leetcode.com/problems/distant-barcodes/">
+                Distant Barcodes
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/distant_barcodes/distant_barcodes.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1035</td>
         <td>
             <a href="https://leetcode.com/problems/uncrossed-lines/">
