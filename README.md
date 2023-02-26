@@ -185,6 +185,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>72</td>
+        <td>
+            <a href="https://leetcode.com/problems/edit-distance/">
+                Edit Distance
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/edit_distance/edit_distance.cpp">C++</a>,
+        </td>
+        <td>Hard</td>
+    </tr>
+    <tr>
         <td>110</td>
         <td>
             <a href="https://leetcode.com/problems/balanced-binary-tree/">
