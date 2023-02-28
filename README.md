@@ -295,6 +295,20 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>427</td>
+        <td>
+            <a href="https://leetcode.com/problems/construct-quad-tree/">
+                Construct Quad Tree
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/construct_quad_tree/construct_quad_tree.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>454</td>
         <td>
             <a href="https://leetcode.com/problems/4sum-ii/">
