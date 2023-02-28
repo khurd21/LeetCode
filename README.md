@@ -337,6 +337,20 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>652</td>
+        <td>
+            <a href="https://leetcode.com/problems/find-duplicate-subtrees/">
+                Find Duplicate Subtrees
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/find_duplicate_subtrees/find_duplicate_subtrees.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>792</td>
         <td>
             <a href="https://leetcode.com/problems/number-of-matching-subsequences/">
