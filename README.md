@@ -161,6 +161,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>43</td>
+        <td>
+            <a href="https://leetcode.com/problems/multiply-strings/">
+                Multiply Strings
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/multiply_strings/multiply_strings.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>45</td>
         <td>
             <a href="https://leetcode.com/problems/jump-game-ii/">
