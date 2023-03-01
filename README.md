@@ -375,6 +375,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>912</td>
+        <td>
+            <a href="https://leetcode.com/problems/sort-an-array/">
+                Sort an Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/sort_an_array/sort_an_array.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1054</td>
         <td>
             <a href="https://leetcode.com/problems/distant-barcodes/">
