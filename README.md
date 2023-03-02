@@ -321,6 +321,20 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>443</td>
+        <td>
+            <a href="https://leetcode.com/problems/string-compression/">
+                String Compression
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/string_compression/string_compression.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>454</td>
         <td>
             <a href="https://leetcode.com/problems/4sum-ii/">
