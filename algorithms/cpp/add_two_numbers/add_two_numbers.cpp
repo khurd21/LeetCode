@@ -65,88 +65,35 @@ class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         
-        bool carry = false;
-        ListNode* p1 = l1;
-        ListNode* p2 = l2;
-        
-        int num = p1->val + p2->val;
-        if (num >= 10) {
-            carry = true;
-            num -= 10;
-        }
-        
-        ListNode* result = new ListNode;
-        result->val = num;
-        result->next = nullptr;
-        ListNode* currentPtr = result;
-        
-        p1 = p1->next;
-        p2 = p2->next;
-        
-        while (p1 != nullptr && p2 != nullptr) {
-            // perform the operation -- add p1 + p2 to result
-            int num = p1->val + p2->val + (int)carry;
-            carry = false;
-            
-            if (num >= 10) {
-                carry = true;
-                num -= 10;
+        ListNode* result{ new ListNode((l1->val + l2->val) % 10) };
+        ListNode* itr{ result };
+        int sum( (l1->val + l2->val) / 10 );
+
+        l1 = l1->next;
+        l2 = l2->next;
+
+        while (l1 != nullptr || l2 != nullptr) {
+
+            itr->next = new ListNode();
+            itr = itr->next;
+
+            if (l1 != nullptr) {
+                sum += l1->val;
+                l1 = l1->next;
             }
-            
-            ListNode* tmpPtr = new ListNode;
-            tmpPtr->val = num;
-            tmpPtr->next = nullptr;
-            
-            currentPtr->next = tmpPtr;
-            currentPtr = currentPtr->next;
-            
-            p1 = p1->next;
-            p2 = p2->next;
-        }
-        
-        if (p1 == nullptr && p2 == nullptr) {
-            if (carry == true) {
-                ListNode* tmp = new ListNode;
-                tmp->val = (int)carry;
-                tmp->next = nullptr;
-                currentPtr->next = tmp;
-                currentPtr = currentPtr->next;
+            if (l2 != nullptr) {
+                sum += l2->val;
+                l2 = l2->next;
             }
-            return result;
-        }
-        else {
-            appendLastElements(currentPtr, (p1 == nullptr) ? p2 : p1, carry);
-            return result;
-        }
-    }
-    
-private:
-    
-    void appendLastElements(ListNode*& currentPtr, ListNode* node, bool carry) {
-        
-        while (node != nullptr) {
-            int num = node->val + (int)carry;
-            carry = false;
-            if (num >= 10) {
-                carry = true;
-                num -= 10;
-            }
-            
-            ListNode* tmpPtr = new ListNode;
-            tmpPtr->val = num;
-            tmpPtr->next = nullptr;
-            currentPtr->next = tmpPtr;
-            currentPtr = currentPtr->next;
-            
-            node = node->next;
+
+            itr->val = sum % 10;
+            sum /= 10;
         }
         
-        if (carry == true) {
-            ListNode* tmpPtr = new ListNode;
-            tmpPtr->val = 1;
-            tmpPtr->next = nullptr;
-            currentPtr->next = tmpPtr;
-            currentPtr = currentPtr->next;
+        if (sum != 0) {
+            itr->next = new ListNode(sum);
         }
+
+        return result;
     }
 };
