@@ -563,6 +563,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2360</td>
+        <td>
+            <a href="https://leetcode.com/problems/longest-cycle-in-a-graph/">
+                Longest Cycle in a Graph
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/longest_cycle_in_graph/longest_cycle_in_graph.cpp">C++</a>,
+        </td>
+        <td>Hard</td>
+    </tr>
+    <tr>
         <td>2363</td>
         <td>
             <a href="https://leetcode.com/problems/merge-similar-items/">
