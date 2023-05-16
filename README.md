@@ -389,6 +389,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>830</td>
+        <td>
+            <a href="https://leetcode.com/problems/positions-of-large-groups/">
+                Positions of Large Groups
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/positions_of_large_groups/positions_of_large_groups.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>912</td>
         <td>
             <a href="https://leetcode.com/problems/sort-an-array/">
