@@ -36,20 +36,20 @@ Constraints:
 class Solution {
 public:
     int maxAscendingSum(const std::vector<int>& nums) {
+
         int ascending_total{ nums[0] };
         int maximum_ascending_sum{ -1 };
 
         for (auto itr{ std::next(nums.cbegin()) }; itr < nums.cend(); ++itr) {
-            if (*std::prev(itr) < *itr) {
-                ascending_total += *itr;
-            }
-            else {
+
+            if (*std::prev(itr) >= *itr) {
                 maximum_ascending_sum = std::max(maximum_ascending_sum, ascending_total);
-                ascending_total = *itr;
+                ascending_total = 0;
             }
+
+            ascending_total += *itr;
         }
 
-        maximum_ascending_sum = std::max(maximum_ascending_sum, ascending_total);
-        return maximum_ascending_sum;
+        return std::max(maximum_ascending_sum, ascending_total);
     }
 };
