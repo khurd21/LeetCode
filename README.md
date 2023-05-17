@@ -515,6 +515,20 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1800</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximum-ascending-subarray-sum/description/">
+                Maximum Ascending Sub Array Sum
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximum_ascending_subarray_sum/maximum_ascending_subarray_sum.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1812</td>
         <td>
             <a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">
