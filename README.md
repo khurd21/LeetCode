@@ -377,6 +377,20 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>690</td>
+        <td>
+            <a href="https://leetcode.com/problems/employee-importance/description/">
+                Employee Importance
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/employee_importance/employee_importance.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>792</td>
         <td>
             <a href="https://leetcode.com/problems/number-of-matching-subsequences/">
