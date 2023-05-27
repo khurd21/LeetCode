@@ -377,6 +377,20 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>657</td>
+        <td>
+            <a href="https://leetcode.com/problems/robot-return-to-origin/description/">
+                Robot Return to Origin
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/robot_return_to_origin/robot_return_to_origin.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>690</td>
         <td>
             <a href="https://leetcode.com/problems/employee-importance/description/">
