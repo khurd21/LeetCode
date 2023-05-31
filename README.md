@@ -149,6 +149,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>27</td>
+        <td>
+            <a href="https://leetcode.com/problems/remove-element/description/">
+                Remove Element
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/remove_element/remove_element.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>31</td>
         <td>
             <a href="https://leetcode.com/problems/next-permutation/">
