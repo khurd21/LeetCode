@@ -221,6 +221,18 @@
         <td>Hard</td>
     </tr>
     <tr>
+        <td>80</td>
+        <td>
+        <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">
+            Remove duplicates from sorted array 2
+        </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/edit_distance/edit_distance.cpp">C++</a>,
+        </td>
+        <td>Hard</td>
+    </tr>
+    <tr>
         <td>110</td>
         <td>
             <a href="https://leetcode.com/problems/balanced-binary-tree/">
