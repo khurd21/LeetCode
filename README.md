@@ -489,6 +489,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1282</td>
+        <td>
+            <a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/">
+                Group the People Given the Group Size They Belong To
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/group_the_people/group_the_people.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1422</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">
