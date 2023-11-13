@@ -688,4 +688,16 @@
         </td>
         <td>Easy</td>
     </tr>
+    <tr>
+        <td>2785</td>
+        <td>
+            <a href="https://leetcode.com/problems/sort-vowels-in-a-string/description/">
+                Sort Vowels in a String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/sort_vowels_in_string/sort_vowels_in_string.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
 </table>
