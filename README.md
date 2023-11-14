@@ -605,6 +605,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1930</td>
+        <td>
+            <a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/">
+                Unique Length of 3 Palindromic Subsequence
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/unique_length_3_palindromic_subsequence/unique_length_3_palindromic_subsequence.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1832</td>
         <td>
             <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">
