@@ -641,6 +641,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1980</td>
+        <td>
+            <a href="https://leetcode.com/problems/find-unique-binary-string/description/">
+                Find Unique Binary String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/find_unique_binary_string/find_unique_binary_string.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2133</td>
         <td>
             <a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">
