@@ -629,6 +629,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1877</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/">
+                Minimize Maximum Pair Sum in Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimize_maximum_pair/minimize_maximum_pair.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1962</td>
         <td>
             <a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">
