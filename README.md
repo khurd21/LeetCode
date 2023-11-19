@@ -629,6 +629,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1838</td>
+        <td>
+            <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/">
+                Frequency of the Most Frequent Element
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/frequency_of_the_most_frequent_element/frequency_of_the_most_frequent_element.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1877</td>
         <td>
             <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/">
