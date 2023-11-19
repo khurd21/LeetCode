@@ -653,6 +653,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1887</td>
+        <td>
+            <a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description">
+                Reduction Operations to Make the Array Elements Equal
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/make_array_equal_elements/make_array_equal_elements.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1962</td>
         <td>
             <a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">
