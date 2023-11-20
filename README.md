@@ -737,6 +737,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2391</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description">
+                Minimum Amount of Time to Collect Garbage
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_time_collect_garbage/minimum_time_collect_garbage.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2441</td>
         <td>
             <a href="https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/">
