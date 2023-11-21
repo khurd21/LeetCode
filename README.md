@@ -605,14 +605,14 @@
         <td>Easy</td>
     </tr>
     <tr>
-        <td>1930</td>
+        <td>1814</td>
         <td>
-            <a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/">
-                Unique Length of 3 Palindromic Subsequence
+            <a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/description/">
+                Count Nice Pairs in Array
             </a>
         </td>
         <td>
-            <a href="./algorithms/cpp/unique_length_3_palindromic_subsequence/unique_length_3_palindromic_subsequence.cpp">C++</a>,
+            <a href="./algorithms/cpp/count_nice_pairs_in_array/count_nice_pairs_in_array.cpp">C++</a>,
         </td>
         <td>Medium</td>
     </tr>
@@ -661,6 +661,18 @@
         </td>
         <td>
             <a href="./algorithms/cpp/make_array_equal_elements/make_array_equal_elements.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>1930</td>
+        <td>
+            <a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/">
+                Unique Length of 3 Palindromic Subsequence
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/unique_length_3_palindromic_subsequence/unique_length_3_palindromic_subsequence.cpp">C++</a>,
         </td>
         <td>Medium</td>
     </tr>
