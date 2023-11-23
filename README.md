@@ -513,6 +513,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1424</td>
+        <td>
+            <a href="https://leetcode.com/problems/diagonal-traverse-ii/description/">
+                Diagonal Traverse 2
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/diagonal_traverse/diagonal_traverse2.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1480</td>
         <td>
             <a href="https://leetcode.com/problems/running-sum-of-1d-array/">
