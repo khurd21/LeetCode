@@ -563,6 +563,20 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1630</td>
+        <td>
+            <a href="https://leetcode.com/problems/arithmetic-subarrays/description/">
+                Arithmetic Sub Arrays
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/arithmetic_subarrays/arithmetic_subarrays.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1754</td>
         <td>
             <a href="https://leetcode.com/problems/largest-merge-of-two-strings/">
