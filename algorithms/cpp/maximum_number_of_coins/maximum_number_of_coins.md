@@ -1,6 +1,9 @@
 # Maximum Number of Coins You Can Get
 
-See C++ file [here](./maximum_number_of_coins.cpp).
+- See C++ file [here](./maximum_number_of_coins.cpp).
+- See sln notes [here](./1561%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.pdf)
+
+### Question
 
 There are 3n piles of coins of varying size, you and your friends will take piles of coins as follows:
 
