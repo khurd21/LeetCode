@@ -549,6 +549,18 @@
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1561</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/">
+                Maximum Number of Coins You Can Get
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximum_number_of_coins/maximum_number_of_coins.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1592</td>
         <td>
             <a href="https://leetcode.com/problems/rearrange-spaces-between-words/">
