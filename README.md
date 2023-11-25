@@ -589,6 +589,20 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1685</td>
+        <td>
+            <a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/">
+                Sum of Absolute Differences in a Sorted Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/sum_of_absolute_differences/sum_of_absolute_differences.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1754</td>
         <td>
             <a href="https://leetcode.com/problems/largest-merge-of-two-strings/">
