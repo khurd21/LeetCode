@@ -603,6 +603,20 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1727</td>
+        <td>
+            <a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/">
+                Largest Sub-Matrix with Re-arrangements
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/largest_submatrix_with_rearrangements/largest_submatrix_with_rearrangements.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1754</td>
         <td>
             <a href="https://leetcode.com/problems/largest-merge-of-two-strings/">
