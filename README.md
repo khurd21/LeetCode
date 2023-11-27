@@ -465,6 +465,18 @@
         <td>Medium</td>
     </tr>
     <tr>
+        <td>935</td>
+        <td>
+            <a href="https://leetcode.com/problems/knight-dialer/description/">
+                Knight Dialer
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/knight_dialer/knight_dialer.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1054</td>
         <td>
             <a href="https://leetcode.com/problems/distant-barcodes/">
