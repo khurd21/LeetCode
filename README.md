@@ -1,5 +1,9 @@
 # LeetCode
 
+Welcome to my LeetCode Repo! Here I post all of my answers.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kmdude1000?ext=heatmap)
+
 ## Problems
 
 <table width="300">
@@ -789,6 +793,18 @@
             <a href="./algorithms/cpp/check_if_every_row_and_column_contains_all_numbers/check_if_every_row_and_column_contains_all_numbers.cpp">C++</a>,
         </td>
         <td>Easy</td>
+    </tr>
+    <tr>
+        <td>2147</td>
+        <td>
+            <a href="https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/">
+                Number of Ways to Divide a Long Corridor
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/number_of_ways_to_divide_a_long_corridor/solution.md">C++</a>,
+        </td>
+        <td>Hard</td>
     </tr>
     <tr>
         <td>2309</td>
