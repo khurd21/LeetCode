@@ -309,6 +309,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>191</td>
+        <td>
+            <a href="https://leetcode.com/problems/number-of-1-bits/">
+                Number of 1 Bits
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/number_of_1_bits/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>234</td>
         <td>
             <a href="https://leetcode.com/problems/palindrome-linked-list/">
