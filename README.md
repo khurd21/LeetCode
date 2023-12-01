@@ -603,6 +603,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1611</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/">
+                Minimum One Bit Operations to Make Integers Zero
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_one_bit_operations/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1630</td>
         <td>
             <a href="https://leetcode.com/problems/arithmetic-subarrays/description/">
