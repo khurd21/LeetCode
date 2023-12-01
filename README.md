@@ -631,6 +631,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1662</td>
+        <td>
+            <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/">
+                Check If Two String Arrays are Equivalent
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/check_if_two_strings_are_equal/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1685</td>
         <td>
             <a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/">
