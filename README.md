@@ -517,6 +517,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1160</td>
+        <td>
+            <a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/">
+                Find Words That Can Be Formed by Characters
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/find_words_that_can_be_formed_by_characters/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1282</td>
         <td>
             <a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/">
