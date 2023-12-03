@@ -529,6 +529,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1266</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-time-visiting-all-points/description/">
+                Minimum Time Visiting All Points
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_time_visiting_all_points/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1282</td>
         <td>
             <a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/">
