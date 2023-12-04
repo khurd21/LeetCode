@@ -871,6 +871,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Hard</td>
     </tr>
     <tr>
+        <td>2264</td>
+        <td>
+            <a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/description">
+                Largest 3 Same Digit Number in String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/largest_3_same_digit_number_in_string/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2309</td>
         <td>
             <a href="https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/">
