@@ -683,6 +683,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1688</td>
+        <td>
+            <a href="https://leetcode.com/problems/count-of-matches-in-tournament/">
+                Count of Matches in Tournament
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/count_of_matches_in_a_tournament/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1727</td>
         <td>
             <a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/">
