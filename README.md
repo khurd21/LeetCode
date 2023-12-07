@@ -839,6 +839,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1903</td>
+        <td>
+            <a href="https://leetcode.com/problems/largest-odd-number-in-string/description">
+                Largest Odd Number in String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/largest_odd_number_in_string/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1930</td>
         <td>
             <a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/">
