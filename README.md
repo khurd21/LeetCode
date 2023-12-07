@@ -697,6 +697,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1716</td>
+        <td>
+            <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/">
+                Calculate Money in Leetcode Bank
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/calculate_money_in_leetcode_bank/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1727</td>
         <td>
             <a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/">
