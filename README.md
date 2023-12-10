@@ -237,6 +237,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Hard</td>
     </tr>
     <tr>
+        <td>94</td>
+        <td>
+        <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/description/">
+            Binary Tree Inorder Traversal
+        </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/binary_tree_inorder_traversal/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>110</td>
         <td>
             <a href="https://leetcode.com/problems/balanced-binary-tree/">
