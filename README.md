@@ -403,6 +403,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>606</td>
+        <td>
+            <a href="https://leetcode.com/problems/construct-string-from-binary-tree/">
+                Construct String From Binary Tree
+            <s/a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/construct_string_from_binary_tree/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>652</td>
         <td>
             <a href="https://leetcode.com/problems/find-duplicate-subtrees/">
