@@ -495,6 +495,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>867</td>
+        <td>
+            <a href="https://leetcode.com/problems/transpose-matrix/description/">
+                Transpose Matrix
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/transpose_matrix/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>912</td>
         <td>
             <a href="https://leetcode.com/problems/sort-an-array/">
