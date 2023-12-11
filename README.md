@@ -591,6 +591,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1287</td>
+        <td>
+            <a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/">
+                Elements Appearing More Than 25% In Sorted Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/element_appearing_more_than_25_percent/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1422</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">
