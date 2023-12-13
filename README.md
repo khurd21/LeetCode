@@ -627,6 +627,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1464</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">
+                Maximum Product of Two Elements in an Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximum_product_of_two_elements_in_an_array/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1480</td>
         <td>
             <a href="https://leetcode.com/problems/running-sum-of-1d-array/">
