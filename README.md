@@ -675,6 +675,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1582</td>
+        <td>
+            <a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/">
+                Special Positions in a Binary Matrix
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/special_positions_in_a_binary_matrix/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1592</td>
         <td>
             <a href="https://leetcode.com/problems/rearrange-spaces-between-words/">
