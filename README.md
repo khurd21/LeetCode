@@ -1057,6 +1057,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2482</td>
+        <td>
+            <a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/">
+                Difference Between Ones and Zeros in Row and Column
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/difference_between_ones_and_zeros_in_row_and_col/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2785</td>
         <td>
             <a href="https://leetcode.com/problems/sort-vowels-in-a-string/description/">
