@@ -1045,6 +1045,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Hard</td>
     </tr>
     <tr>
+        <td>2353</td>
+        <td>
+            <a href="https://leetcode.com/problems/design-a-food-rating-system/description">
+                Design a Food Rating System
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/design_a_food_rating_system/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2363</td>
         <td>
             <a href="https://leetcode.com/problems/merge-similar-items/">
