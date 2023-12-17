@@ -627,6 +627,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1436</td>
+        <td>
+            <a href="https://leetcode.com/problems/destination-city/description">
+                Destination City
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/destination_city/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1464</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">
