@@ -345,6 +345,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>242</td>
+        <td>
+            <a href="https://leetcode.com/problems/valid-anagram/description">
+                Valid Anagram
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/valid_anagram/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>365</td>
         <td>
             <a href="https://leetcode.com/problems/water-and-jug-problem/">
