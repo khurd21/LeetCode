@@ -949,6 +949,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1913</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs">
+                Maximum Product Difference Between Two Pairs
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximum_product_difference_between_two_pairs/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1930</td>
         <td>
             <a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/">
