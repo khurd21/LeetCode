@@ -1131,6 +1131,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2657</td>
+        <td>
+            <a href="https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/">
+                Find the Prefix Common Array of Two Arrays
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/find_prefix_common_array/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2785</td>
         <td>
             <a href="https://leetcode.com/problems/sort-vowels-in-a-string/description/">
