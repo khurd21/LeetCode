@@ -469,6 +469,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>661</td>
+        <td>
+            <a href="https://leetcode.com/problems/image-smoother">
+                Image Smoother
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/image_smoother/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>690</td>
         <td>
             <a href="https://leetcode.com/problems/employee-importance/description/">
