@@ -381,6 +381,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>287</td>
+        <td>
+            <a href="https://leetcode.com/problems/find-the-duplicate-number/">
+                Find the Duplicate Number
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/find_the_duplicate_number/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>365</td>
         <td>
             <a href="https://leetcode.com/problems/water-and-jug-problem/">
