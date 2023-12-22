@@ -636,7 +636,7 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
             </a>
         </td>
         <td>
-            <a href="./algorithms/cpp/maximum_score_after_splitting_a_string/maximum_score_after_splitting_a_string.cpp">C++</a>,
+            <a href="./algorithms/cpp/maximum_score_after_splitting_a_string/solution.md">C++</a>,
         </td>
         <td>Easy</td>
     </tr>
