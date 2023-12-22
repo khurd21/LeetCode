@@ -767,6 +767,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1637</td>
+        <td>
+            <a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/">
+                Widest Vertical Area Between Two Points Containing No Points
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/widest_vertical_area_between_two_points/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1662</td>
         <td>
             <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/">
