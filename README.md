@@ -435,6 +435,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>448</td>
+        <td>
+            <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">
+                Find All Numbers Disappeared in an Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/find_all_numbers_disappeared_in_an_array/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>454</td>
         <td>
             <a href="https://leetcode.com/problems/4sum-ii/">
