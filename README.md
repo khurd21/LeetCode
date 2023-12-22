@@ -1143,6 +1143,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2706</td>
+        <td>
+            <a href="https://leetcode.com/problems/buy-two-chocolates">
+                Buy Two Chocolates
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/buy_two_chocolates/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2785</td>
         <td>
             <a href="https://leetcode.com/problems/sort-vowels-in-a-string/description/">
