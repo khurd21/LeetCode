@@ -369,6 +369,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>268</td>
+        <td>
+            <a href="https://leetcode.com/problems/missing-number/">
+                Missing Number
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/missing_number/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>365</td>
         <td>
             <a href="https://leetcode.com/problems/water-and-jug-problem/">
