@@ -739,6 +739,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1496</td>
+        <td>
+            <a href="https://leetcode.com/problems/path-crossing">
+                Path Crossing
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/path_crossing/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1523</td>
         <td>
             <a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">
