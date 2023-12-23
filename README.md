@@ -547,6 +547,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>767</td>
+        <td>
+            <a href="https://leetcode.com/problems/reorganize-string/description/">
+                Reorganize String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/reorganize_string/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>792</td>
         <td>
             <a href="https://leetcode.com/problems/number-of-matching-subsequences/">
