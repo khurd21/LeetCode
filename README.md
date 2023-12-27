@@ -645,6 +645,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1155</td>
+        <td>
+            <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description">
+                Number of Dice Rolls with Target Sum
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/number_of_dice_rolls_with_target_sum/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1160</td>
         <td>
             <a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/">
