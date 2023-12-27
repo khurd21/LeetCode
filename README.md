@@ -789,6 +789,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1578</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/">
+                Minimum Time to Make Rope Colorful
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_time_to_make_rope_colorful/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1582</td>
         <td>
             <a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/">
