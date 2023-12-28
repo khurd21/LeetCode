@@ -789,6 +789,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1531</td>
+        <td>
+            <a href="https://leetcode.com/problems/string-compression-ii/description/">
+                String Compression 2
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/string_compression/string_compression2.md">C++</a>,
+        </td>
+        <td>Hard</td>
+    </tr>
+    <tr>
         <td>1561</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/">
