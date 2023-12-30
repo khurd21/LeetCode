@@ -1077,6 +1077,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1897</td>
+        <td>
+            <a href="https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/">
+                Redistribute Characters To Make All Strings Equal
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/redistribute_characters_to_make_all_strings_equal/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1903</td>
         <td>
             <a href="https://leetcode.com/problems/largest-odd-number-in-string/description">
