@@ -865,6 +865,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1624</td>
+        <td>
+            <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/">
+                Largest Substring Between Two Equal Characters
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/largest_substring_between_two_equal_characters/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1630</td>
         <td>
             <a href="https://leetcode.com/problems/arithmetic-subarrays/description/">
