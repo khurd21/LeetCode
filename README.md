@@ -1177,6 +1177,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2125</td>
+        <td>
+            <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/">
+                Number of Laser Beams in a Bank
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/number_of_laser_beams_in_a_bank/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2133</td>
         <td>
             <a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">
@@ -1297,6 +1309,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2610</td>
+        <td>
+            <a href="https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/">
+                Convert an Array Into a 2D Array With Conditions
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/convert_array_to_2d_array/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2657</td>
         <td>
             <a href="https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/">
@@ -1329,6 +1353,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         </td>
         <td>
             <a href="./algorithms/cpp/sort_vowels_in_string/sort_vowels_in_string.cpp">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>2870</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/">
+                Minimum Number of Operations to Make Array Empty
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_number_of_operations_to_make_array_empty/solution.md">C++</a>,
         </td>
         <td>Medium</td>
     </tr>
