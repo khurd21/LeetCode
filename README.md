@@ -435,6 +435,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>446</td>
+        <td>
+            <a href="https://leetcode.com/problems/arithmetic-slices-ii-subsequence/">
+                Arithmetic Slices 2
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/arithmetic_slices/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Hard</td>
+    </tr>
+    <tr>
         <td>448</td>
         <td>
             <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">
