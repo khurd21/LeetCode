@@ -649,6 +649,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>938</td>
+        <td>
+            <a href="https://leetcode.com/problems/range-sum-of-bst/description/">
+                Range Sum of BST
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/range_sum_of_bst/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1054</td>
         <td>
             <a href="https://leetcode.com/problems/distant-barcodes/">
