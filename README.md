@@ -625,6 +625,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>872</td>
+        <td>
+            <a href="https://leetcode.com/problems/leaf-similar-trees/description/">
+                Leaf Similar Trees
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/leaf_similar_trees/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>912</td>
         <td>
             <a href="https://leetcode.com/problems/sort-an-array/">
