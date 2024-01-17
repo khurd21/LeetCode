@@ -407,6 +407,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>380</td>
+        <td>
+            <a href="https://leetcode.com/problems/insert-delete-getrandom-o1/description/">
+                Insert, Delete, GetRandom O(1)
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/insert_delete_get_random/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>427</td>
         <td>
             <a href="https://leetcode.com/problems/construct-quad-tree/">
