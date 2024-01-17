@@ -721,6 +721,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1207</td>
+        <td>
+            <a href="https://leetcode.com/problems/unique-number-of-occurrences/">
+                Unique Number of Occurrences
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/unique_number_of_occurrences/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1266</td>
         <td>
             <a href="https://leetcode.com/problems/minimum-time-visiting-all-points/description/">
