@@ -345,6 +345,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>217</td>
+        <td>
+            <a href="https://leetcode.com/problems/contains-duplicate/description/">
+                Contains Duplicate
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/contains_duplicate/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>234</td>
         <td>
             <a href="https://leetcode.com/problems/palindrome-linked-list/">
