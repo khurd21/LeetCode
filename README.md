@@ -831,6 +831,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1457</td>
+        <td>
+            <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree">
+                Pseudo Palindromic Paths in a Binary Tree
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/pseudo_palindromic_paths_in_a_binary_tree/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1464</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">
