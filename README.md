@@ -213,6 +213,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>49</td>
+        <td>
+            <a href="https://leetcode.com/problems/group-anagrams/description/">
+                Group Anagrams
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/group_anagrams/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>55</td>
         <td>
             <a href="https://leetcode.com/problems/jump-game/">
