@@ -417,6 +417,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>347</td>
+        <td>
+            <a href="https://leetcode.com/problems/top-k-frequent-elements/">
+                First K Frequent Elements
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/top_k_frequent_elements/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>365</td>
         <td>
             <a href="https://leetcode.com/problems/water-and-jug-problem/">
