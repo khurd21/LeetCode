@@ -49,23 +49,21 @@ using namespace std;
 
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-		unordered_map<int,std::vector<int>::iterator> my_map;
-        
-        for (auto itr = nums.begin(); itr < nums.end(); ++itr) {
-            
-            const int potential = target - *itr;
-            
-            if (my_map.find(potential) != my_map.end()) {
-                return {
-                    (int)(my_map[potential] - nums.begin()),
-                    (int)(itr - nums.begin())
-                };
-            }
-            
-            my_map[*itr] = itr;
+    std::vector<int> twoSum(const std::vector<int>& nums, int target) {
+
+        std::unordered_map<int, int> valueToKey;
+        for (int i = 0; i < nums.size(); ++i) {
+            valueToKey[nums[i]] = i;
         }
-        
-        return {};
-	}
+
+        for (int i = 0; i < nums.size(); ++i) {
+            const auto diff{ target - nums[i] };
+            const auto itr{ valueToKey.find(diff) };
+            if (itr != valueToKey.end() && itr->second != i) {
+                return { i, itr->second };
+            }
+        }
+
+        return { -1, -1 };
+    }
 };
