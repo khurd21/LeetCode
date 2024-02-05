@@ -457,6 +457,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>387</td>
+        <td>
+            <a href="https://leetcode.com/problems/first-unique-character-in-a-string/">
+                First Unique Character in a String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/first_unique_character_in_string/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>427</td>
         <td>
             <a href="https://leetcode.com/problems/construct-quad-tree/">
