@@ -381,6 +381,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>238</td>
+        <td>
+            <a href="https://leetcode.com/problems/product-of-array-except-self/">
+                Product of Array Except Self
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/product_of_array_except_self/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>242</td>
         <td>
             <a href="https://leetcode.com/problems/valid-anagram/description">
