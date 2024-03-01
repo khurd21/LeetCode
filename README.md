@@ -1521,6 +1521,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2864</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximum-odd-binary-number/description/">
+                Maximum Odd Binary Number
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximum_odd_binary_number/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2870</td>
         <td>
             <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/">
