@@ -775,6 +775,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>948</td>
+        <td>
+            <a href="https://leetcode.com/problems/bag-of-tokens/">
+                Bag of Tokens
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/bag_of_tokens/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1054</td>
         <td>
             <a href="https://leetcode.com/problems/distant-barcodes/">
