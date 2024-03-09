@@ -321,6 +321,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>141</td>
+        <td>
+            <a href="https://leetcode.com/problems/linked-list-cycle/description/">
+                Linked List Cycle
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/pascals_triangle2/pascals_triangle2.cpp">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>175</td>
         <td>
             <a href="https://leetcode.com/problems/combine-two-tables/">
