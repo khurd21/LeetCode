@@ -321,6 +321,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>128</td>
+        <td>
+            <a href="https://leetcode.com/problems/longest-consecutive-sequence/description/">
+                Longest Consecutive Sequence
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/longest_consecutive_sequence/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>141</td>
         <td>
             <a href="https://leetcode.com/problems/linked-list-cycle/description/">
