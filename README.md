@@ -1556,4 +1556,16 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         </td>
         <td>Medium</td>
     </tr>
+    <tr>
+        <td>3005</td>
+        <td>
+            <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/description/">
+                Count Elements With Maximum Frequency
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/count_elements_with_maximum_frequency/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
 </table>
