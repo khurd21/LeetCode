@@ -1509,6 +1509,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2540</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-common-value/description/">
+                Minimum Common Value
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_common_value/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2610</td>
         <td>
             <a href="https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/">
