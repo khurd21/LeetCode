@@ -751,6 +751,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>876</td>
+        <td>
+            <a href="https://leetcode.com/problems/middle-of-the-linked-list/description/">
+                Middle of the Linked List
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/middle_of_the_linked_list/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>912</td>
         <td>
             <a href="https://leetcode.com/problems/sort-an-array/">
