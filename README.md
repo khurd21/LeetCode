@@ -477,6 +477,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>349</td>
+        <td>
+            <a href="https://leetcode.com/problems/intersection-of-two-arrays/">
+                Intersection of two Arrays
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/intersection_of_two_arrays/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>365</td>
         <td>
             <a href="https://leetcode.com/problems/water-and-jug-problem/">
