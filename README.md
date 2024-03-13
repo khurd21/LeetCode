@@ -345,6 +345,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>167</td>
+        <td>
+            <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">
+                Two Sum 2 - Input Array is Sorted
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/two_sum_array_is_sorted/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>175</td>
         <td>
             <a href="https://leetcode.com/problems/combine-two-tables/">
