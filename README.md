@@ -1545,6 +1545,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2485</td>
+        <td>
+            <a href="https://leetcode.com/problems/find-the-pivot-integer/">
+                Find the Pivot Integer
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/find_the_pivot_integer/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2540</td>
         <td>
             <a href="https://leetcode.com/problems/minimum-common-value/description/">
