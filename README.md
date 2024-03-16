@@ -655,6 +655,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>525</td>
+        <td>
+            <a href="https://leetcode.com/problems/contiguous-array/description/">
+                Contiguous Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/contiguous_array/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>606</td>
         <td>
             <a href="https://leetcode.com/problems/construct-string-from-binary-tree/">
