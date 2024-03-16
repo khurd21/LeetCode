@@ -28,3 +28,34 @@ public:
         return suffix;
     }
 };
+
+class Solution {
+public:
+    std::vector<int> productExceptSelf(const std::vector<int>& nums) {
+
+        if (nums.empty()) {
+            return {};
+        }
+
+        std::vector<int> answer(nums.size());
+        std::vector<int> suffix = nums;
+        std::vector<int> prefix = nums;
+
+        for (auto itr{ prefix.begin() + 1 }; itr < prefix.end(); ++itr) {
+            *itr *= *(itr - 1);
+        }
+
+        for (auto itr{ suffix.rbegin() + 1 }; itr < suffix.rend(); ++itr) {
+            *itr *= *(itr - 1);
+        }
+
+        *answer.rbegin() = *(prefix.rbegin() + 1);
+        *answer.begin() = *(suffix.begin() + 1);
+
+        for (int i{ 1 }; i < nums.size() - 1; ++i) {
+            answer.at(i) = prefix.at(i - 1) * suffix.at(i + 1);
+        }
+
+        return answer;
+    }
+};
