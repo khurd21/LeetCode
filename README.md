@@ -613,6 +613,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>452</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/">
+                Minimum Number of Arrows to Burst Balloons
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_number_of_operations_to_make_array_empty/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>454</td>
         <td>
             <a href="https://leetcode.com/problems/4sum-ii/">
