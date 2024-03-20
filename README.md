@@ -687,7 +687,7 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>
             <a href="https://leetcode.com/problems/construct-string-from-binary-tree/">
                 Construct String From Binary Tree
-            <s/a>
+            </a>
         </td>
         <td>
             <a href="./algorithms/cpp/construct_string_from_binary_tree/solution.md">
@@ -695,6 +695,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
             </a>,
         </td>
         <td>Easy</td>
+    </tr>
+    <tr>
+        <td>621</td>
+        <td>
+            <a href="https://leetcode.com/problems/task-scheduler/">
+                Task Scheduler
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/task_scheduler/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
     </tr>
     <tr>
         <td>652</td>
