@@ -1225,6 +1225,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1669</td>
+        <td>
+            <a href="https://leetcode.com/problems/merge-in-between-linked-lists/description/">
+                Merge in Between Linked Lists
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/merge_in_between_linked_lists/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1685</td>
         <td>
             <a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/">
