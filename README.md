@@ -569,6 +569,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>442</td>
+        <td>
+            <a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/description/">
+                Find All Duplicates in an Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/find_duplicates_in_an_array/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>443</td>
         <td>
             <a href="https://leetcode.com/problems/string-compression/">
