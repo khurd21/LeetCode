@@ -1735,6 +1735,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2958</td>
+        <td>
+            <a href="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/">
+                Length of Longest Subarray With at Most K Frequency
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/length_of_longest_subarry_with_k_elements/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>3005</td>
         <td>
             <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/description/">
