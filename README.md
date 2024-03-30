@@ -927,6 +927,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>992</td>
+        <td>
+            <a href="https://leetcode.com/problems/subarrays-with-k-different-integers/description/">
+                Sub Arrays With K Different Integers
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/subarray_with_k_different_integers/solution.md">C++</a>,
+        </td>
+        <td>Hard</td>
+    </tr>
+    <tr>
         <td>1054</td>
         <td>
             <a href="https://leetcode.com/problems/distant-barcodes/">
