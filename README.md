@@ -1639,6 +1639,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2444</td>
+        <td>
+            <a href="https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/">
+                Count Subarrays With Fixed Bounds
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/count_subarrays_with_fixed_bounds/solution.md">C++</a>,
+        </td>
+        <td>Hard</td>
+    </tr>
+    <tr>
         <td>2482</td>
         <td>
             <a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/">
