@@ -249,6 +249,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>58</td>
+        <td>
+            <a href="https://leetcode.com/problems/length-of-last-word/description/">
+                Length of Last Word
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/length_of_last_word/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>72</td>
         <td>
             <a href="https://leetcode.com/problems/edit-distance/">
