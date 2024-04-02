@@ -429,6 +429,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>205</td>
+        <td>
+            <a href="https://leetcode.com/problems/isomorphic-strings/description/">
+                Isomorphic Strings
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/isomorphic_strings/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>217</td>
         <td>
             <a href="https://leetcode.com/problems/contains-duplicate/description/">
