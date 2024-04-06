@@ -1231,6 +1231,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1614</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/">
+                Maximum Depth of the Parentheses
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximum_nesting_depth_of_the_parenthesis/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1624</td>
         <td>
             <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/">
