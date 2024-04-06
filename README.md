@@ -273,6 +273,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Hard</td>
     </tr>
     <tr>
+        <td>79</td>
+        <td>
+            <a href="https://leetcode.com/problems/word-search/">
+                Word Search
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/word_search/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>80</td>
         <td>
         <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">
@@ -1165,6 +1177,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
             <a href="./algorithms/cpp/string_compression/string_compression2.md">C++</a>,
         </td>
         <td>Hard</td>
+    </tr>
+    <tr>
+        <td>1544</td>
+        <td>
+            <a href="https://leetcode.com/problems/make-the-string-great/">
+                Make the String Great
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/make_the_string_great/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
     </tr>
     <tr>
         <td>1561</td>
