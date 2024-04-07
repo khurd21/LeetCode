@@ -1035,6 +1035,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1249</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/">
+                Minimum Remove to Make Valid Parentheses
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_remove_to_make_valid_parentheses/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1266</td>
         <td>
             <a href="https://leetcode.com/problems/minimum-time-visiting-all-points/description/">
