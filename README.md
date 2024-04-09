@@ -1593,6 +1593,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2073</td>
+        <td>
+            <a href="https://leetcode.com/problems/time-needed-to-buy-tickets">
+                Time Needed to Buy Tickets
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/time_needed_to_buy_tickets/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2125</td>
         <td>
             <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/">
