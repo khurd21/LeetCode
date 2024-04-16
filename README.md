@@ -357,6 +357,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>129</td>
+        <td>
+            <a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">
+                Sum Root to Leaf Numbers
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/sum_root_to_leaf_numbers/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>141</td>
         <td>
             <a href="https://leetcode.com/problems/linked-list-cycle/description/">
