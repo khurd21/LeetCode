@@ -989,6 +989,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>988</td>
+        <td>
+            <a href="https://leetcode.com/problems/smallest-string-starting-from-leaf/">
+                Smallest String Starting From Leaf
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/smallest_string_starting_from_leaf/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>992</td>
         <td>
             <a href="https://leetcode.com/problems/subarrays-with-k-different-integers/description/">
