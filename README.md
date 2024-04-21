@@ -729,6 +729,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>463</td>
+        <td>
+            <a href="https://leetcode.com/problems/island-perimeter/description/">
+                Island Perimeter
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/island_perimeter/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>485</td>
         <td>
             <a href="https://leetcode.com/problems/max-consecutive-ones/">
