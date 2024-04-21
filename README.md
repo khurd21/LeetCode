@@ -453,6 +453,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>200</td>
+        <td>
+            <a href="https://leetcode.com/problems/number-of-islands/description/">
+                Number of Islands
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/number_of_islands/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>205</td>
         <td>
             <a href="https://leetcode.com/problems/isomorphic-strings/description/">
