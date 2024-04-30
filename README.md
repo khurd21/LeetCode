@@ -1921,6 +1921,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2997</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/">
+                Minimum Number of Operations to Make Array XOR Equal to K
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_operations_xor_zero/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>3005</td>
         <td>
             <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/description/">
