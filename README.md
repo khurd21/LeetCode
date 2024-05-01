@@ -1657,6 +1657,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2000</td>
+        <td>
+            <a href="https://leetcode.com/problems/reverse-prefix-of-word/description/">
+                Reverse Prefix of Word
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/reverse_prefix_of_word/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2073</td>
         <td>
             <a href="https://leetcode.com/problems/time-needed-to-buy-tickets">
