@@ -1796,7 +1796,7 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
             </a>
         </td>
         <td>
-            <a href="./algorithms/cpp/largest_positive_integer/largest_positive_integer.cpp">C++</a>,
+            <a href="./algorithms/cpp/largest_positive_integer/solution.md">C++</a>,
         </td>
         <td>Easy</td>
     </tr>
