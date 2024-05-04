@@ -979,6 +979,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>881</td>
+        <td>
+            <a href="https://leetcode.com/problems/boats-to-save-people">
+                Boats to Save People
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/boats_to_save_people/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>912</td>
         <td>
             <a href="https://leetcode.com/problems/sort-an-array/">
