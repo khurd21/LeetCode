@@ -513,6 +513,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>237</td>
+        <td>
+            <a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">
+                Delete Node in a Linked List
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/delete_node_in_a_linked_list/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>238</td>
         <td>
             <a href="https://leetcode.com/problems/product-of-array-except-self/">
