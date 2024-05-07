@@ -1933,6 +1933,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2816</td>
+        <td>
+            <a href="https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/">
+                Double a Number Represented as a Linked List
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/double_a_number_represented_as_a_linked_list/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2864</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-odd-binary-number/description/">
