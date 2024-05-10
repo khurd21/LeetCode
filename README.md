@@ -793,6 +793,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>506</td>
+        <td>
+            <a href="https://leetcode.com/problems/relative-ranks/">
+                Relative Ranks
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/relative_ranks/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>525</td>
         <td>
             <a href="https://leetcode.com/problems/contiguous-array/description/">
