@@ -2018,4 +2018,16 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         </td>
         <td>Easy</td>
     </tr>
+    <tr>
+        <td>3075</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/">
+                Maximize Happiness of Selected Children
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximize_happiness_selected_children/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
 </table>
