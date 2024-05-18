@@ -1065,6 +1065,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>979</td>
+        <td>
+            <a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">
+                Distribute Coins in Binary Tree
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/distribute_coins_in_binary_tree/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>988</td>
         <td>
             <a href="https://leetcode.com/problems/smallest-string-starting-from-leaf/">
