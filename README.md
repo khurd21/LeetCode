@@ -1827,6 +1827,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2373</td>
+        <td>
+            <a href="https://leetcode.com/problems/largest-local-values-in-a-matrix/">
+                Largest Local Values in a Matrix
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/largest_local_values_in_matrix/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2391</td>
         <td>
             <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description">
