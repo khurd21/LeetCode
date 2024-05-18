@@ -1791,6 +1791,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2331</td>
+        <td>
+            <a href="https://leetcode.com/problems/evaluate-boolean-binary-tree/">
+                Evaluate Boolean Binary Tree
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/evaluate_boolean_binary_tree/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2360</td>
         <td>
             <a href="https://leetcode.com/problems/longest-cycle-in-a-graph/">
