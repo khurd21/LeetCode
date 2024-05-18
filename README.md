@@ -1197,6 +1197,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1325</td>
+        <td>
+            <a href="https://leetcode.com/problems/delete-leaves-with-a-given-value/">
+                Delete Leaves With a Given Value
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/delete_leaves_with_a_given_value/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1422</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">
