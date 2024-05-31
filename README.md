@@ -549,6 +549,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>260</td>
+        <td>
+            <a href="https://leetcode.com/problems/single-number-iii/description/">
+                Single Number 3
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/single_number_three/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>268</td>
         <td>
             <a href="https://leetcode.com/problems/missing-number/">
