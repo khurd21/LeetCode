@@ -1959,6 +1959,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2486</td>
+        <td>
+            <a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/">
+                Append Characters to String to Make Subsequence
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/append_characters_to_string_to_make_subsequence/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2540</td>
         <td>
             <a href="https://leetcode.com/problems/minimum-common-value/description/">
