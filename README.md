@@ -887,6 +887,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>648</td>
+        <td>
+            <a href="https://leetcode.com/problems/replace-words/description/">
+                Replace Words
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/replace_words/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>652</td>
         <td>
             <a href="https://leetcode.com/problems/find-duplicate-subtrees/">
