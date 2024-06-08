@@ -831,6 +831,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>523</td>
+        <td>
+            <a href="https://leetcode.com/problems/continuous-subarray-sum/description/">
+                Continuous Subarray Sum
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/continuous_subarray_sum/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>525</td>
         <td>
             <a href="https://leetcode.com/problems/contiguous-array/description/">
