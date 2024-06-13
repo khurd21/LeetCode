@@ -1807,6 +1807,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2037</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/">
+                Minimum Number of Moves to Seat Everyone
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_number_of_moves_to_change_seats/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2073</td>
         <td>
             <a href="https://leetcode.com/problems/time-needed-to-buy-tickets">
