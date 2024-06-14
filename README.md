@@ -1117,6 +1117,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>945</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/">
+                Minimum Increment to Make Array Unique
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_increment_to_make_array_unique/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>948</td>
         <td>
             <a href="https://leetcode.com/problems/bag-of-tokens/">
