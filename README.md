@@ -609,6 +609,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>330</td>
+        <td>
+            <a href="https://leetcode.com/problems/patching-array/description/">
+                Patching Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/patching_array/solution.md">C++</a>,
+        </td>
+        <td>Hard</td>
+    </tr>
+    <tr>
         <td>344</td>
         <td>
             <a href="https://leetcode.com/problems/reverse-string/description/">
