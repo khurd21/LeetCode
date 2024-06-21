@@ -937,6 +937,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>633</td>
+        <td>
+            <a href="https://leetcode.com/problems/sum-of-square-numbers/description/">
+                Sum of Square Numbers
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/sum_of_square_numbers/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>648</td>
         <td>
             <a href="https://leetcode.com/problems/replace-words/description/">
