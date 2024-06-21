@@ -1441,6 +1441,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1552</td>
+        <td>
+            <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/description">
+                Magnetic Force Between Two Balls
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/magnetic_force_between_two_balls/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1561</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/">
