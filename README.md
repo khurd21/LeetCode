@@ -1699,6 +1699,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1791</td>
+        <td>
+            <a href="https://leetcode.com/problems/find-center-of-star-graph/description/">
+                Find Center of Star Graph
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/find_center_of_star_graph/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1800</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-ascending-subarray-sum/description/">
