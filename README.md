@@ -1955,6 +1955,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2285</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximum-total-importance-of-roads/description/">
+                Maximum Total Importance of Roads
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximum_total_importance_of_roads/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2309</td>
         <td>
             <a href="https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/">
