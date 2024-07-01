@@ -1455,6 +1455,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1550</td>
+        <td>
+            <a href="https://leetcode.com/problems/three-consecutive-odds/description/">
+                Three Consecutive Odds
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/three_consecutive_odds/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1552</td>
         <td>
             <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/description">
