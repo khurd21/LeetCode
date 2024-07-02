@@ -657,6 +657,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>350</td>
+        <td>
+            <a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/description/">
+                Intersection of Two Arrays 2
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/intersection_of_two_arrays2/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>365</td>
         <td>
             <a href="https://leetcode.com/problems/water-and-jug-problem/">
