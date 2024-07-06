@@ -2159,6 +2159,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2582</td>
+        <td>
+            <a href="https://leetcode.com/problems/pass-the-pillow/description/">
+                Pass the Pillow
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/pass_the_pillow/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2610</td>
         <td>
             <a href="https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/">
