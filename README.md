@@ -1919,6 +1919,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2058</td>
+        <td>
+            <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/">
+                Find the Minimum and Maximum Number of Nodes Between Critical Points
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_and_maximum_number_of_nodes_between_critical_points/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2073</td>
         <td>
             <a href="https://leetcode.com/problems/time-needed-to-buy-tickets">
