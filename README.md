@@ -1553,6 +1553,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1598</td>
+        <td>
+            <a href="https://leetcode.com/problems/crawler-log-folder/description/">
+                Crawler Log Folder
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/crawler_log_folder/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1611</td>
         <td>
             <a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/">
