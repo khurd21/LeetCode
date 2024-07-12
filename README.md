@@ -1679,6 +1679,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1701</td>
+        <td>
+            <a href="https://leetcode.com/problems/average-waiting-time/description/">
+                Average Waiting Time
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/average_waiting_time/solution.cpp">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1716</td>
         <td>
             <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/">
