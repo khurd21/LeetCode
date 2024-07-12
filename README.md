@@ -1431,6 +1431,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1518</td>
+        <td>
+            <a href="https://leetcode.com/problems/water-bottles/description/">
+                Water Bottles
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/water_bottles/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1523</td>
         <td>
             <a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">
