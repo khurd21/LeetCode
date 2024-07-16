@@ -1721,6 +1721,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1717</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/description/">
+                Maximum Score From Removing Substrings
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximum_score_from_removing_substrings/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1727</td>
         <td>
             <a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/">
