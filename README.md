@@ -2033,6 +2033,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Hard</td>
     </tr>
     <tr>
+        <td>2196</td>
+        <td>
+            <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/description/">
+                Create Binary Tree From Descriptions
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/create_binary_tree_from_descriptions/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2264</td>
         <td>
             <a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/description">
