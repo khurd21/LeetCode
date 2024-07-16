@@ -2261,6 +2261,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2751</td>
+        <td>
+            <a href="https://leetcode.com/problems/robot-collisions/description/">
+                Robot Collisions
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/robot_collisions/solution.md">C++</a>,
+        </td>
+        <td>Hard</td>
+    </tr>
+    <tr>
         <td>2785</td>
         <td>
             <a href="https://leetcode.com/problems/sort-vowels-in-a-string/description/">
