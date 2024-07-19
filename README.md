@@ -1347,6 +1347,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1380</td>
+        <td>
+            <a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/">
+                Lucky Numbers in a Matrix
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/lucky_numbers_in_a_matrix/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1422</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">
