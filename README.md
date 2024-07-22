@@ -2165,6 +2165,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2418</td>
+        <td>
+            <a href="https://leetcode.com/problems/sort-the-people/description/">
+                Sort the People
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/sort_the_people/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2441</td>
         <td>
             <a href="https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/">
