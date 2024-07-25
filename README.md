@@ -2059,6 +2059,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Hard</td>
     </tr>
     <tr>
+        <td>2191</td>
+        <td>
+            <a href="https://leetcode.com/problems/sort-the-jumbled-numbers/description/">
+                Sort the Jumbled Numbers
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/sort_the_jumbled_numbers/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2196</td>
         <td>
             <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/description/">
