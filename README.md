@@ -1635,6 +1635,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1636</td>
+        <td>
+            <a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/description/">
+                Sort Array by Increasing Frequency
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/sort_array_by_increasing_frequency/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1637</td>
         <td>
             <a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/">
