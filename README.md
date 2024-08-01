@@ -2311,6 +2311,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2678</td>
+        <td>
+            <a href="https://leetcode.com/problems/number-of-senior-citizens/description/">
+                Number of Senior Citizens
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/number_of_senior_citizens/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2706</td>
         <td>
             <a href="https://leetcode.com/problems/buy-two-chocolates">
