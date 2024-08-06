@@ -2431,6 +2431,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>3016</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description">
+                Minimum Number of Pushes to Type Word 2
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_number_of_pushes_to_type_word_2/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>3075</td>
         <td>
             <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/">
