@@ -1083,6 +1083,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>840</td>
+        <td>
+            <a href="https://leetcode.com/problems/magic-squares-in-grid/description/">
+                Magic Squares in Grid
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/magic_squares_in_grid/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>867</td>
         <td>
             <a href="https://leetcode.com/problems/transpose-matrix/description/">
