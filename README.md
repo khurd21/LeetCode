@@ -1033,6 +1033,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>703</td>
+        <td>
+            <a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/">
+                Kth Largest Element in a Stream
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/kth_largest_element_in_a_stream/">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>767</td>
         <td>
             <a href="https://leetcode.com/problems/reorganize-string/description/">
