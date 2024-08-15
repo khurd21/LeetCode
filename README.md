@@ -1109,6 +1109,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>860</td>
+        <td>
+            <a href="https://leetcode.com/problems/lemonade-change/description/">
+                Lemonade Change
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/lemonade_change/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>867</td>
         <td>
             <a href="https://leetcode.com/problems/transpose-matrix/description/">
