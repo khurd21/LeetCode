@@ -1469,6 +1469,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1492</td>
+        <td>
+            <a href="https://leetcode.com/problems/the-kth-factor-of-n/description/">
+                The Kth Factor of N
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/the_kth_factor_of_n/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1496</td>
         <td>
             <a href="https://leetcode.com/problems/path-crossing">
