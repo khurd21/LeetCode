@@ -585,6 +585,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>264</td>
+        <td>
+            <a href="https://leetcode.com/problems/ugly-number-ii/description/">
+                Ugly Number 2
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/ugly_number_2/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>268</td>
         <td>
             <a href="https://leetcode.com/problems/missing-number/">
