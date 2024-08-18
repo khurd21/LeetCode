@@ -2241,6 +2241,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2405</td>
+        <td>
+            <a href="https://leetcode.com/problems/optimal-partition-of-string/description/">
+                Optimal Partition of String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/optimal_position_of_string/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2418</td>
         <td>
             <a href="https://leetcode.com/problems/sort-the-people/description/">
