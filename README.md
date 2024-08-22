@@ -863,6 +863,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>476</td>
+        <td>
+            <a href="https://leetcode.com/problems/number-complement/description/">
+                Number Complement
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/number_complement/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>485</td>
         <td>
             <a href="https://leetcode.com/problems/max-consecutive-ones/">
