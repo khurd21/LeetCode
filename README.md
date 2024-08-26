@@ -945,6 +945,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>590</td>
+        <td>
+            <a href="https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/">
+                N-Ary Tree Postorder Traversal
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/n_ary_tree_postorder_traversal/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>606</td>
         <td>
             <a href="https://leetcode.com/problems/construct-string-from-binary-tree/">
