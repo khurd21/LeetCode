@@ -2029,6 +2029,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1905</td>
+        <td>
+            <a href="https://leetcode.com/problems/count-sub-islands/description/">
+                Count Sub Islands
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/count_sub_islands/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1913</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs">
