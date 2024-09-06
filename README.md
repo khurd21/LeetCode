@@ -2580,4 +2580,16 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         </td>
         <td>Medium</td>
     </tr>
+    <tr>
+        <td>3217</td>
+        <td>
+            <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/">
+                Delete Nodes From Linked List Present in Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/delete_nodes_from_linked_list_present_in_array/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
 </table>
