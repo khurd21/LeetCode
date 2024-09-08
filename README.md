@@ -1099,6 +1099,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>725</td>
+        <td>
+            <a href="https://leetcode.com/problems/split-linked-list-in-parts/description/">
+                Split Linked List in Parts
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/split_linked_list_in_parts/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>767</td>
         <td>
             <a href="https://leetcode.com/problems/reorganize-string/description/">

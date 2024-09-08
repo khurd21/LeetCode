@@ -1,5 +1,7 @@
 # 1367. Linked List in Binary Tree
 
+- See solution file [here](./solution.cpp)
+
 Given a binary tree root and a linked list with head as the first node. 
 
 Return True if all the elements in the linked list starting from the head correspond to
