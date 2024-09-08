@@ -1437,6 +1437,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1367</td>
+        <td>
+            <a href="https://leetcode.com/problems/linked-list-in-binary-tree/description/">
+                Linked List in Binary Tree
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/linked_list_in_binary_tree/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1380</td>
         <td>
             <a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/">
