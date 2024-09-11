@@ -2223,6 +2223,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2220</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/">
+                Minimum Bit Flips to Convert Number
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_bit_flips_to_convert_number/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2264</td>
         <td>
             <a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/description">
