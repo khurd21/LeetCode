@@ -1819,6 +1819,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1684</td>
+        <td>
+            <a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/description/">
+                Count the Number of Consistent Strings
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/count_the_number_of_consistent_strings/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1685</td>
         <td>
             <a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/">
