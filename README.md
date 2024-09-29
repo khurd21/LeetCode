@@ -749,6 +749,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>432</td>
+        <td>
+            <a href="https://leetcode.com/problems/all-oone-data-structure/description/">
+                All O'One Data Structure
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/all_o_one_data_structure/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Hard</td>
+    </tr>
+    <tr>
         <td>442</td>
         <td>
             <a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/description/">
