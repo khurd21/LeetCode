@@ -1465,6 +1465,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1331</td>
+        <td>
+            <a href="https://leetcode.com/problems/rank-transform-of-an-array/description/">
+                Rank Transform of an Array
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/rank_transform_of_an_array/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1367</td>
         <td>
             <a href="https://leetcode.com/problems/linked-list-in-binary-tree/description/">
