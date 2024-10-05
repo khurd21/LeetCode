@@ -959,6 +959,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>567</td>
+        <td>
+            <a href="https://leetcode.com/problems/permutation-in-string/description/">
+                Permutation in String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/permutation_in_string/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>590</td>
         <td>
             <a href="https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/">
