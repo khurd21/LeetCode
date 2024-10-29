@@ -2553,6 +2553,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2684</td>
+        <td>
+            <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/">
+                Maximum Number of Moves in a Grid
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/maximum_number_of_moves_in_a_grid/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2706</td>
         <td>
             <a href="https://leetcode.com/problems/buy-two-chocolates">
