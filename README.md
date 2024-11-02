@@ -2145,6 +2145,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1957</td>
+        <td>
+            <a href="https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/">
+                Delete Characters to Make Fancy String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/delete_characters_to_make_fancy_string/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1962</td>
         <td>
             <a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">
