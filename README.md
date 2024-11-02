@@ -2493,6 +2493,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2490</td>
+        <td>
+            <a href="https://leetcode.com/problems/circular-sentence/description/">
+                Circular Sentence
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/circular_sentence/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2491</td>
         <td>
             <a href="https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/">
