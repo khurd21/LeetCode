@@ -2721,6 +2721,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>3163</td>
+        <td>
+            <a href="https://leetcode.com/problems/string-compression-iii/description/">
+                String Compression 3
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/string_compression_3/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>3217</td>
         <td>
             <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/">
