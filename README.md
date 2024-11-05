@@ -2661,6 +2661,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2914</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/">
+                Minimum Number of Changes to Make Binary String Beautiful
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_number_of_changes_to_make_string_beautiful/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2958</td>
         <td>
             <a href="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/">
