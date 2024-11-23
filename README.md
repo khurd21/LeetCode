@@ -2061,6 +2061,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1861</td>
+        <td>
+            <a href="https://leetcode.com/problems/rotating-the-box/description/">
+                Rotating the Box
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/rotating_the_box/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>1877</td>
         <td>
             <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/">
