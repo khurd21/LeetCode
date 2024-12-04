@@ -2253,6 +2253,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2109</td>
+        <td>
+            <a href="https://leetcode.com/problems/adding-spaces-to-a-string/description/">
+                Adding Spaces to a String
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/adding_spaces_to_a_string/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2125</td>
         <td>
             <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/">
