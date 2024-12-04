@@ -1551,6 +1551,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>1455</td>
+        <td>
+            <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/">
+                Check if a Word Occurs as a Prefix of Any Word in a Sentence
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/check_if_a_word_occurs_as_prefix/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1457</td>
         <td>
             <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree">
