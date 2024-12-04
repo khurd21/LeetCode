@@ -2673,6 +2673,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>2825</td>
+        <td>
+            <a href="https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/">
+                Make a String a Subsequence Using Cyclic Increments
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/make_a_string_a_subsequence_using_cyclic_increments/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2864</td>
         <td>
             <a href="https://leetcode.com/problems/maximum-odd-binary-number/description/">
