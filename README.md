@@ -2577,6 +2577,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2588</td>
+        <td>
+            <a href="https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/">
+                Take Gifts From the Richest Pile
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/take_gifts_from_the_richest_pile/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2610</td>
         <td>
             <a href="https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/">
