@@ -1155,6 +1155,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>769</td>
+        <td>
+            <a href="https://leetcode.com/problems/max-chunks-to-make-sorted/description/">
+                Max Chunks to Make Sorted
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/max_chunks_to_make_sorted/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>791</td>
         <td>
             <a href="https://leetcode.com/problems/custom-sort-string/description/">
