@@ -2483,6 +2483,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2429</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimize-xor/description/">
+                Minimize XOR
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimize_xor/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>2441</td>
         <td>
             <a href="https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/">
