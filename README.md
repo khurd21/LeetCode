@@ -1983,6 +1983,20 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>1752</td>
+        <td>
+            <a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/">
+                Check if Array Is Sorted and Rotated
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/check_if_array_is_sorted_and_rotated/solution.md">
+                C++
+            </a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>1754</td>
         <td>
             <a href="https://leetcode.com/problems/largest-merge-of-two-strings/">
