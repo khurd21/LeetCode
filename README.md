@@ -2845,6 +2845,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>3174</td>
+        <td>
+            <a href="https://leetcode.com/problems/clear-digits/description/">
+                Clear Digits
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/clear_digits/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>3217</td>
         <td>
             <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/">
