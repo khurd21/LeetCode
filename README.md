@@ -2821,6 +2821,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Medium</td>
     </tr>
     <tr>
+        <td>3066</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/">
+                Minimum Operations to Exceed Threshold Value 2
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_operations_to_exceed_threshold2/solution.md">C++</a>,
+        </td>
+        <td>Medium</td>
+    </tr>
+    <tr>
         <td>3075</td>
         <td>
             <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/">
