@@ -2461,6 +2461,18 @@ Welcome to my LeetCode Repo! Here I post all of my answers.
         <td>Easy</td>
     </tr>
     <tr>
+        <td>2379</td>
+        <td>
+            <a href="https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/">
+                Minimum Recolors to get K Consecutive Black Blocks
+            </a>
+        </td>
+        <td>
+            <a href="./algorithms/cpp/minimum_recolors_to_get_k_black_blocks/solution.md">C++</a>,
+        </td>
+        <td>Easy</td>
+    </tr>
+    <tr>
         <td>2391</td>
         <td>
             <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description">
